@@ -24,7 +24,6 @@ cd Indian-Climate_Change_Predictor
 - Create Virtual Environment:
 python -m venv .venv
 .venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Linux/Mac
 
 - Install Dependencies:
 pip install -r requirements.txt
